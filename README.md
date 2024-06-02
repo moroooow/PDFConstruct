@@ -1,1 +1,1 @@
-To Install requirenments use  "python -m pip install -r requirements.txt" or "pip install -r requirements.txt" 
+To Install requirements use  "python -m pip install -r requirements.txt" or "pip install -r requirements.txt" 
